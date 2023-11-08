@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently at Epitech and working on a project in Python with the GitHub API.<br>🐍🔧<br><br>I am open to any proposals for a web project, both back-end and front-end, whether it involves React, Node, Symfony, etc.<br>🌐💻<br><br>I am currently learning Spring Boot and Symfony.<br>🌱💻<br><br>Feel free to contact me for any information.<br>📧📫<br><br>Any fool can write code that a computer can understand.<br>👨‍💻🧠🖥️
+I am currently at Epitech and working on a project in Python with the GitHub API.<br>🐍🔧<br><br>I am open to any proposals for a web project, both back-end and front-end, whether it involves React, Java Spring & Spring Boot,  Node, Symfony, etc.<br>🌐💻<br><br>I am currently learning Spring Boot and Symfony.<br>🌱💻<br><br>Feel free to contact me for any information.<br>📧📫<br><br>Any fool can write code that a computer can understand.<br>👨‍💻🧠🖥️
 
 
 ## 🌐 Socials:
