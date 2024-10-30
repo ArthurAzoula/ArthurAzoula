@@ -1,6 +1,6 @@
 # 🌟 Arthur Azoula
 
-Hey there! I’m **Arthur**—a back-end developer at **@Adeo** and a student at **@Epitech**. My sweet spot is in **distributed systems**, and I'm all about crafting solid back-end solutions with **Java** and **Spring Boot**, as well as a bit of front-end with **React**.
+Hey there! I’m **Arthur**, a back-end developer at **@Adeo** and a student at **@Epitech**. My sweet spot is in **distributed systems**, and I'm all about crafting solid back-end solutions with **Java** and **Spring Boot**, as well as a bit of front-end with **React**.
 
 ### 💻 Tech Stack:
 - **Back-end**: Java, Spring Boot, Node.js, TypeScript, Kafka, Docker
