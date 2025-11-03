@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">Backend dev by day, tennis guy by afternoon, explorer on weekends ... 🎾💻✈️</h2>
+<h2 align="center">Backend dev by day, tennis guy by afternoon, explorer on weekends ...</h2>
 
 ###
 
